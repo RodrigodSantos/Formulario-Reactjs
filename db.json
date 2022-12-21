@@ -1,0 +1,29 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Rodrigo",
+      "email": "rodrigo@gmail.com",
+      "nascimento": "07/08/2003",
+      "cep": "58200-000"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "agua"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 1,
+      "nome": "santa joana"
+    }
+  ],
+  "entregadores": [
+    {
+      "id": 1,
+      "nome": "João"
+    }
+  ]
+}
